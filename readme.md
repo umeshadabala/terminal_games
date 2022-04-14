@@ -1,5 +1,6 @@
 Follow the steps
 <br>
+<br>
 1.Clone the repo
 ```
 git clone https://github.com/umeshlab/terminal_games.git
