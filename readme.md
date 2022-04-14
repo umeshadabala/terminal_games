@@ -15,7 +15,8 @@ cd public
 4.Run the main.py file
 ```
 python main.py
-or py main.py
+    or
+py main.py
 ```
 if your using linux
 ```
