@@ -1,4 +1,5 @@
 import os
+import time
 console = str(input("Command: "))
 if console == "adventure":
     os.system("python ../src/adventure.py")
@@ -22,3 +23,4 @@ Commands
 4.song - to play song game
 Thank You!
 ''')
+time.sleep(15)
