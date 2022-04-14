@@ -20,7 +20,9 @@ python main.py
     or
 py main.py
 ```
-if your using linux
+if you are  using linux
 ```
 python3 main.py
 ```
+
+Thanks!
