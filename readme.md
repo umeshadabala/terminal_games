@@ -5,16 +5,20 @@ Follow the steps
 ```
 git clone https://github.com/umeshlab/terminal_games.git
 ```
-2.Install the requirements
+2.Switch  to the terminal_games direcotry
+```
+cd terminal_games
+```
+3.Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-3.Go to the public directory
+4.Switch to the public directory
 ```
 cd public
 ```
-4.Run the main.py file
+5.Run the main.py file
 ```
 python main.py
     or
@@ -24,5 +28,8 @@ if you are  using linux
 ```
 python3 main.py
 ```
-
+6. Run the help command
+```
+help
+```
 Thanks!
