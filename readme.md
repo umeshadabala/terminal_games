@@ -19,6 +19,8 @@ pip install -r requirements.txt
 <br>
 5.Open the main.py file in idle 
 and run it.
+
+Note :- Don't open it using cmd use idle or a IDE for good experience 
 <br>
 <br>
 6. Run the help command
