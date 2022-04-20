@@ -5,7 +5,7 @@ Follow the steps
 ```
 git clone https://github.com/umeshlab/terminal_games.git
 ```
-2.Switch  to the terminal_games direcotry
+2.Switch  to the terminal_games directory
 <br>
 <br>
 
